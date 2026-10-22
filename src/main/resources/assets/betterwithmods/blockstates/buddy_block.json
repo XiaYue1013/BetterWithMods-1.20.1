@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "betterwithmods:block/variants/buddy_block_off"
+    },
+    "powered=true": {
+      "model": "betterwithmods:block/variants/buddy_block_on"
+    }
+  }
+}

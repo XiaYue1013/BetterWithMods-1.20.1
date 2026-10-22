@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "betterwithmods:block/variants/slats"
+    },
+    "facing=up": {
+      "model": "betterwithmods:block/variants/slats"
+    },
+    "facing=north": {
+      "model": "betterwithmods:block/variants/slats"
+    },
+    "facing=south": {
+      "model": "betterwithmods:block/variants/slats"
+    },
+    "facing=west": {
+      "model": "betterwithmods:block/variants/slats"
+    },
+    "facing=east": {
+      "model": "betterwithmods:block/variants/slats"
+    }
+  }
+}

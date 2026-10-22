@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "active=false,facing=down": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_down"
+    },
+    "active=true,facing=down": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_down"
+    },
+    "active=false,facing=up": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_up"
+    },
+    "active=true,facing=up": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_up"
+    },
+    "active=false,facing=north": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_north"
+    },
+    "active=true,facing=north": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_north"
+    },
+    "active=false,facing=south": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_south"
+    },
+    "active=true,facing=south": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_south"
+    },
+    "active=false,facing=west": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_west"
+    },
+    "active=true,facing=west": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_west"
+    },
+    "active=false,facing=east": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_east"
+    },
+    "active=true,facing=east": {
+      "model": "betterwithmods:block/variants/wooden_gearbox_east"
+    }
+  }
+}

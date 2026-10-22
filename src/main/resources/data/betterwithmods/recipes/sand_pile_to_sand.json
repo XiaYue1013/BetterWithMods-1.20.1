@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterwithmods:sand_pile"
+    },
+    {
+      "item": "betterwithmods:sand_pile"
+    },
+    {
+      "item": "betterwithmods:sand_pile"
+    },
+    {
+      "item": "betterwithmods:sand_pile"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sand",
+    "count": 1
+  }
+}

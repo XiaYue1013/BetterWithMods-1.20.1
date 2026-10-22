@@ -1,0 +1,7 @@
+{
+  "parent": "betterwithmods:block/steel_block_0",
+  "textures": {
+    "texture": "betterwithmods:blocks/soulforged_steel",
+    "particle": "betterwithmods:blocks/soulforged_steel"
+  }
+}

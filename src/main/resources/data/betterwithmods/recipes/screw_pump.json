@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XGX",
+    "PSP",
+    "PgP"
+  ],
+  "key": {
+    "X": {
+      "item": "betterwithmods:glue"
+    },
+    "G": {
+      "item": "betterwithmods:grate"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "betterwithmods:screw"
+    },
+    "g": {
+      "item": "betterwithmods:gear"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:screw_pump",
+    "count": 1
+  }
+}

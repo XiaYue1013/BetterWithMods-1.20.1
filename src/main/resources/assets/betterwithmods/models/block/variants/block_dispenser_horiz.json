@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "betterwithmods:blocks/block_dispenser_top",
+    "down": "betterwithmods:blocks/block_dispenser_top",
+    "north": "betterwithmods:blocks/block_dispenser_front_side",
+    "south": "betterwithmods:blocks/block_dispenser_side",
+    "west": "betterwithmods:blocks/block_dispenser_side",
+    "east": "betterwithmods:blocks/block_dispenser_side",
+    "particle": "betterwithmods:blocks/block_dispenser_side"
+  }
+}

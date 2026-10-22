@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterwithmods:dirt_pile"
+    },
+    {
+      "item": "betterwithmods:dirt_pile"
+    },
+    {
+      "item": "betterwithmods:dirt_pile"
+    },
+    {
+      "item": "betterwithmods:dirt_pile"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}

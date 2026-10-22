@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/wicker_inv",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "side": "betterwithmods:blocks/wicker",
+    "particle": "betterwithmods:blocks/wicker"
+  }
+}

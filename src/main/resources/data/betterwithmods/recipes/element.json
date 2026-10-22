@@ -1,0 +1,27 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:string"
+      },
+      {
+        "item": "betterwithmods:hemp_fibers"
+      }
+    ],
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:element",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

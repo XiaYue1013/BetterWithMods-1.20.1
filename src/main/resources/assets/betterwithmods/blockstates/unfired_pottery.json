@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=0": {
+      "model": "betterwithmods:block/variants/unfired_pottery_0"
+    },
+    "type=1": {
+      "model": "betterwithmods:block/variants/unfired_pottery_1"
+    },
+    "type=2": {
+      "model": "betterwithmods:block/variants/unfired_pottery_2"
+    },
+    "type=3": {
+      "model": "betterwithmods:block/variants/unfired_pottery_3"
+    },
+    "type=4": {
+      "model": "betterwithmods:block/variants/unfired_pottery_4"
+    }
+  }
+}

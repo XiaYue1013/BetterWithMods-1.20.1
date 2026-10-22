@@ -1,0 +1,15 @@
+{
+  "type": "betterwithmods:mill",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:coal_dust",
+      "count": 1
+    }
+  ],
+  "grind_time": 200
+}

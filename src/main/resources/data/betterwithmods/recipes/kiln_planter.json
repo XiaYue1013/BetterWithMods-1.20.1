@@ -1,0 +1,12 @@
+{
+  "type": "betterwithmods:kiln",
+  "input": {
+    "item": "betterwithmods:unfired_pottery"
+  },
+  "heat": 2,
+  "cook_time": 200,
+  "result": {
+    "item": "betterwithmods:planter",
+    "count": 1
+  }
+}

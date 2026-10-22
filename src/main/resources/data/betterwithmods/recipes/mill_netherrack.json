@@ -1,0 +1,15 @@
+{
+  "type": "betterwithmods:mill",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:ground_netherrack",
+      "count": 1
+    }
+  ],
+  "grind_time": 200
+}

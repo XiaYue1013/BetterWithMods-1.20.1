@@ -1,0 +1,17 @@
+{
+  "type": "betterwithmods:turntable",
+  "input": {
+    "item": "minecraft:clay"
+  },
+  "rotations": 8,
+  "result": {
+    "item": "betterwithmods:unfired_pottery",
+    "count": 1
+  },
+  "drops": [
+    {
+      "item": "minecraft:clay_ball",
+      "count": 2
+    }
+  ]
+}

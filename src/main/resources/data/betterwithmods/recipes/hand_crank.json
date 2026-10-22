@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    " S ",
+    "CGC"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "G": {
+      "item": "betterwithmods:gear"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:hand_crank",
+    "count": 1
+  }
+}

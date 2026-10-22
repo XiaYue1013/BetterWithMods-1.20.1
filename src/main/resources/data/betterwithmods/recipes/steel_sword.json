@@ -1,0 +1,26 @@
+{
+  "type": "betterwithmods:steel_anvil",
+  "width": 4,
+  "height": 4,
+  "pattern": [
+    "  S ",
+    "  S ",
+    "  H ",
+    "  R "
+  ],
+  "key": {
+    "S": {
+      "item": "betterwithmods:steel_ingot"
+    },
+    "H": {
+      "item": "betterwithmods:haft"
+    },
+    "R": {
+      "item": "betterwithmods:leather_strap"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:steel_sword",
+    "count": 1
+  }
+}

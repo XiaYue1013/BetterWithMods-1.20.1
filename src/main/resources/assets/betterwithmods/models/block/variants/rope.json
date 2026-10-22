@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/rope",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "betterwithmods:blocks/rope",
+    "side": "betterwithmods:blocks/rope"
+  }
+}

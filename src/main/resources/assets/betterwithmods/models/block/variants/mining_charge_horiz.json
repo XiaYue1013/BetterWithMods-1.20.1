@@ -1,0 +1,9 @@
+{
+  "parent": "betterwithmods:block/mining_charge",
+  "textures": {
+    "side": "betterwithmods:blocks/mining_charge_side",
+    "top": "betterwithmods:blocks/mining_charge_bottom",
+    "bottom": "betterwithmods:blocks/mining_charge_top",
+    "particle": "betterwithmods:blocks/mining_charge_side"
+  }
+}

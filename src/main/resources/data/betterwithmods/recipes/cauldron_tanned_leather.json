@@ -1,0 +1,19 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "betterwithmods:bark_oak"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:tanned_leather",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "betterwithmods:block/infernal_enchanter",
+  "textures": {
+    "all": "betterwithmods:blocks/soulforged_steel",
+    "side": "betterwithmods:blocks/infernal_enchanter_side",
+    "top": "betterwithmods:blocks/infernal_enchanter_top",
+    "bottom": "betterwithmods:blocks/soulforged_steel",
+    "particle": "betterwithmods:blocks/soulforged_steel"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/gearbox",
+  "textures": {
+    "side": "betterwithmods:blocks/steel_gearbox_side",
+    "up": "betterwithmods:blocks/steel_gearbox_input_broken",
+    "particle": "betterwithmods:blocks/steel_gearbox_side"
+  }
+}

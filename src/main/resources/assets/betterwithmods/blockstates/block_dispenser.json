@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "betterwithmods:block/variants/block_dispenser_vert"
+    },
+    "facing=up": {
+      "model": "betterwithmods:block/variants/block_dispenser_vert",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=north": {
+      "model": "betterwithmods:block/variants/block_dispenser_horiz"
+    },
+    "facing=south": {
+      "model": "betterwithmods:block/variants/block_dispenser_horiz",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "betterwithmods:block/variants/block_dispenser_horiz",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "betterwithmods:block/variants/block_dispenser_horiz",
+      "y": 90,
+      "uvlock": true
+    }
+  }
+}

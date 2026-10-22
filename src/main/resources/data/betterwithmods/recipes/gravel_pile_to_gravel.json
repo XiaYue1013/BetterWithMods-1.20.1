@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterwithmods:gravel_pile"
+    },
+    {
+      "item": "betterwithmods:gravel_pile"
+    },
+    {
+      "item": "betterwithmods:gravel_pile"
+    },
+    {
+      "item": "betterwithmods:gravel_pile"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  }
+}

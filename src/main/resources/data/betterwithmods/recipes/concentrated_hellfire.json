@@ -1,0 +1,37 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    {
+      "item": "betterwithmods:hellfire_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:concentrated_hellfire",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

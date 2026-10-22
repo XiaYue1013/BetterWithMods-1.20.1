@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "B B",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "betterwithmods:windmill_blade"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:windmill",
+    "count": 1
+  }
+}

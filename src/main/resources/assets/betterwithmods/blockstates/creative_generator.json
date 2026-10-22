@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betterwithmods:block/variants/creative_generator"
+    }
+  }
+}

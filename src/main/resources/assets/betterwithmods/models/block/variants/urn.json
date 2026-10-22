@@ -1,0 +1,7 @@
+{
+  "parent": "betterwithmods:block/urn",
+  "textures": {
+    "side": "minecraft:block/terracotta",
+    "particle": "minecraft:block/terracotta"
+  }
+}

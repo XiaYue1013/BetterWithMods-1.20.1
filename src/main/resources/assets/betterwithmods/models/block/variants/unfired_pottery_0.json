@@ -1,0 +1,10 @@
+{
+  "parent": "betterwithmods:block/cooking_pot",
+  "textures": {
+    "all": "betterwithmods:blocks/unfired_clay",
+    "side": "betterwithmods:blocks/unfired_clay",
+    "top": "betterwithmods:blocks/unfired_clay",
+    "bottom": "betterwithmods:blocks/unfired_clay",
+    "particle": "betterwithmods:blocks/unfired_clay"
+  }
+}

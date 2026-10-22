@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HH",
+    "CC"
+  ],
+  "key": {
+    "H": {
+      "item": "betterwithmods:hellfire_dust"
+    },
+    "C": {
+      "item": "betterwithmods:coal_dust"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:nethercoal",
+    "count": 2
+  }
+}

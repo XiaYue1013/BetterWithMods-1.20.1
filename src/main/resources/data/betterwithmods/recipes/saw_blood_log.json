@@ -1,0 +1,20 @@
+{
+  "type": "betterwithmods:saw",
+  "input": {
+    "item": "betterwithmods:blood_log"
+  },
+  "results": [
+    {
+      "item": "minecraft:jungle_planks",
+      "count": 4
+    },
+    {
+      "item": "betterwithmods:bark_blood",
+      "count": 1
+    },
+    {
+      "item": "betterwithmods:soul_dust",
+      "count": 2
+    }
+  ]
+}

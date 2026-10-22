@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "active=false,axis=y": {
+      "model": "betterwithmods:block/variants/wooden_axle_off"
+    },
+    "active=false,axis=z": {
+      "model": "betterwithmods:block/variants/wooden_axle_off",
+      "x": 90
+    },
+    "active=false,axis=x": {
+      "model": "betterwithmods:block/variants/wooden_axle_off",
+      "x": 90,
+      "y": 90
+    },
+    "active=true,axis=y": {
+      "model": "betterwithmods:block/variants/wooden_axle_on"
+    },
+    "active=true,axis=z": {
+      "model": "betterwithmods:block/variants/wooden_axle_on",
+      "x": 90
+    },
+    "active=true,axis=x": {
+      "model": "betterwithmods:block/variants/wooden_axle_on",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

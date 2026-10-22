@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "PPP"
+  ],
+  "key": {
+    "C": {
+      "item": "betterwithmods:hemp_cloth"
+    },
+    "P": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:windmill_blade",
+    "count": 1
+  }
+}

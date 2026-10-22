@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "active=false,facing=down": {
+      "model": "betterwithmods:block/large_sawblade"
+    },
+    "active=false,facing=up": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 180
+    },
+    "active=false,facing=north": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270
+    },
+    "active=false,facing=south": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 180
+    },
+    "active=false,facing=west": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 270
+    },
+    "active=false,facing=east": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 90
+    },
+    "active=true,facing=down": {
+      "model": "betterwithmods:block/large_sawblade"
+    },
+    "active=true,facing=up": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 180
+    },
+    "active=true,facing=north": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270
+    },
+    "active=true,facing=south": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 180
+    },
+    "active=true,facing=west": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 270
+    },
+    "active=true,facing=east": {
+      "model": "betterwithmods:block/large_sawblade",
+      "x": 270,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "SCS",
+    "SGS"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "G": {
+      "item": "betterwithmods:gear"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:turntable",
+    "count": 1
+  }
+}

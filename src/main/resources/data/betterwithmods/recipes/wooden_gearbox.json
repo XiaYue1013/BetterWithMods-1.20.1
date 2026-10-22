@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PGP",
+    "GLG",
+    "PGP"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "G": {
+      "item": "betterwithmods:gear"
+    },
+    "L": {
+      "item": "betterwithmods:redstone_latch"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:wooden_gearbox",
+    "count": 1
+  }
+}

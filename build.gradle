@@ -1,0 +1,122 @@
+plugins {
+    id 'eclipse'
+    id 'idea'
+    id 'net.minecraftforge.gradle' version '[6.0.24,6.2)'
+}
+
+group = 'betterwithmods'
+version = '1.20.1-4.0.0'
+
+base {
+    archivesName = 'BetterWithMods'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+
+    copyIdeResources = true
+
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+
+            property 'forge.logging.markers', 'REGISTRIES'
+            property 'forge.logging.console.level', 'debug'
+
+            mods {
+                "betterwithmods" {
+                    source sourceSets.main
+                }
+            }
+        }
+
+        client {
+            property 'forge.enabledGameTestNamespaces', 'betterwithmods'
+        }
+
+        server {
+            property 'forge.enabledGameTestNamespaces', 'betterwithmods'
+            args '--nogui'
+        }
+
+        gameTestServer {
+            property 'forge.enabledGameTestNamespaces', 'betterwithmods'
+        }
+
+        data {
+            workingDirectory project.file('run-data')
+            args '--mod', 'betterwithmods', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+        }
+    }
+}
+
+sourceSets.main.resources { srcDir 'src/generated/resources' }
+
+repositories {
+    mavenCentral()
+    maven {
+        name = "Jared's Maven"
+        url = "https://maven.blamejared.com/"
+    }
+    maven {
+        name = 'CurseMaven'
+        url = 'https://cursemaven.com'
+        content {
+            includeGroup 'curse.maven'
+        }
+    }
+}
+
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.3.0'
+
+    // compile against JEI API for 1.20.1
+    compileOnly fg.deobf("mezz.jei:jei-1.20.1-common-api:15.8.2.26")
+    compileOnly fg.deobf("mezz.jei:jei-1.20.1-forge-api:15.8.2.26")
+    runtimeOnly fg.deobf("mezz.jei:jei-1.20.1-forge:15.8.2.26")
+}
+
+tasks.named('processResources', ProcessResources).configure {
+    var replaceProperties = [
+            minecraft_version   : '1.20.1',
+            minecraft_version_range: '[1.20.1,1.21)',
+            forge_version       : '47.3.0',
+            forge_version_range : '[47,)',
+            loader_version_range: '[47,)',
+            mod_id              : 'betterwithmods',
+            mod_name            : 'Better With Mods',
+            mod_license         : 'MIT',
+            mod_version         : project.version,
+            mod_authors         : 'BeetoGuy, primetoxinz, democat',
+            mod_description     : 'Better With Mods is a reimagining of Better Than Wolves for modern Minecraft.'
+    ]
+    inputs.properties replaceProperties
+
+    filesMatching(['META-INF/mods.toml', 'pack.mcmeta']) {
+        expand replaceProperties + [project: project]
+    }
+}
+
+tasks.named('jar', Jar).configure {
+    manifest {
+        attributes([
+                'Specification-Title'     : 'betterwithmods',
+                'Specification-Vendor'    : 'betterwithmods',
+                'Specification-Version'   : '1',
+                'Implementation-Title'    : project.name,
+                'Implementation-Version'  : project.jar.archiveVersion,
+                'Implementation-Vendor'   : 'betterwithmods',
+                'Implementation-Timestamp': new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+        ])
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

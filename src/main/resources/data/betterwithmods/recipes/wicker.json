@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:wicker",
+    "count": 4
+  }
+}

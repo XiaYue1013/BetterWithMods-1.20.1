@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "BGB"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "L": {
+      "item": "betterwithmods:tanned_leather"
+    },
+    "B": {
+      "item": "betterwithmods:leather_belt"
+    },
+    "G": {
+      "item": "betterwithmods:gear"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:bellows",
+    "count": 1
+  }
+}

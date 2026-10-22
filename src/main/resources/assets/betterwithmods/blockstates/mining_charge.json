@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "betterwithmods:block/variants/mining_charge_vert"
+    },
+    "facing=down": {
+      "model": "betterwithmods:block/variants/mining_charge_vert",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "betterwithmods:block/variants/mining_charge_horiz",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "betterwithmods:block/variants/mining_charge_vert",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "betterwithmods:block/variants/mining_charge_horiz",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "betterwithmods:block/variants/mining_charge_horiz",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "SES",
+    "SRS"
+  ],
+  "key": {
+    "H": {
+      "item": "betterwithmods:concentrated_hellfire"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "E": {
+      "item": "betterwithmods:element"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:hibachi",
+    "count": 1
+  }
+}

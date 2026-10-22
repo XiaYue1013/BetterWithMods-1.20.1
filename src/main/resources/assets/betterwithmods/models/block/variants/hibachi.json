@@ -1,0 +1,10 @@
+{
+  "parent": "betterwithmods:block/hibachi",
+  "textures": {
+    "particle": "betterwithmods:blocks/hibachi_side",
+    "side": "betterwithmods:blocks/hibachi_side",
+    "up": "betterwithmods:blocks/hibachi_top",
+    "down": "betterwithmods:blocks/hibachi_bottom",
+    "conduit": "betterwithmods:blocks/soulforged_steel"
+  }
+}

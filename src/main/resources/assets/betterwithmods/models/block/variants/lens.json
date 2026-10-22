@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "betterwithmods:blocks/lens_back",
+    "down": "minecraft:block/diamond_block",
+    "north": "minecraft:block/gold_block",
+    "south": "minecraft:block/gold_block",
+    "west": "minecraft:block/gold_block",
+    "east": "minecraft:block/gold_block",
+    "particle": "minecraft:block/gold_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "betterwithmods:block/pulley",
+  "textures": {
+    "side": "betterwithmods:blocks/pulley_side",
+    "top": "betterwithmods:blocks/pulley_top",
+    "bottom": "betterwithmods:blocks/pulley_bottom",
+    "particle": "betterwithmods:blocks/pulley_side"
+  }
+}

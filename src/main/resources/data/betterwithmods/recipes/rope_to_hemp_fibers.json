@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterwithmods:rope"
+    }
+  ],
+  "result": {
+    "item": "betterwithmods:hemp_fibers",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://gitlab.com/BetterWithMods/1.12/BetterWithMods/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+updateJSONURL=""
+displayURL=""
+logoFile=""
+credits="FlowerChild, for making Better Than Wolves"
+authors="${mod_authors}"
+description='''${mod_description}'''
+
+[[dependencies.betterwithmods]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.betterwithmods]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

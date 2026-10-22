@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "betterwithmods:block/variants/fertile_farmland_dry"
+    },
+    "moisture=1": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=2": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=3": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=4": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=5": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=6": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    },
+    "moisture=7": {
+      "model": "betterwithmods:block/variants/fertile_farmland_wet"
+    }
+  }
+}

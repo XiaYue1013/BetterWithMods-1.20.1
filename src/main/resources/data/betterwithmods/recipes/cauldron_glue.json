@@ -1,0 +1,19 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:glue",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

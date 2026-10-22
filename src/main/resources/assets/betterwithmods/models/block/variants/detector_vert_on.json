@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "minecraft:block/furnace_top",
+    "down": "betterwithmods:blocks/detector_vertical_on",
+    "north": "minecraft:block/furnace_top",
+    "south": "minecraft:block/furnace_top",
+    "west": "minecraft:block/furnace_top",
+    "east": "minecraft:block/furnace_top",
+    "particle": "minecraft:block/furnace_top"
+  }
+}

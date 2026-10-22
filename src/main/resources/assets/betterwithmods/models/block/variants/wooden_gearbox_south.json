@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/gearbox",
+  "textures": {
+    "side": "betterwithmods:blocks/wooden_gearbox_side",
+    "south": "betterwithmods:blocks/wooden_gearbox_input",
+    "particle": "betterwithmods:blocks/wooden_gearbox_side"
+  }
+}

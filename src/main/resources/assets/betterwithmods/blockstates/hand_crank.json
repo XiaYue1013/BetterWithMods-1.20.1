@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "betterwithmods:block/variants/hand_crank_off"
+    },
+    "stage=1": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=2": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=3": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=4": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=5": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=6": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    },
+    "stage=7": {
+      "model": "betterwithmods:block/variants/hand_crank_on"
+    }
+  }
+}

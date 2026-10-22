@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/piston_top",
+    "bottom": "betterwithmods:blocks/turntable_bottom",
+    "side": "betterwithmods:blocks/turntable_side",
+    "particle": "betterwithmods:blocks/turntable_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "betterwithmods:block/planter",
+  "textures": {
+    "particle": "betterwithmods:blocks/planter",
+    "side": "betterwithmods:blocks/planter"
+  }
+}

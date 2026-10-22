@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "speed=0": {
+      "model": "betterwithmods:block/variants/turntable"
+    },
+    "speed=1": {
+      "model": "betterwithmods:block/variants/turntable"
+    },
+    "speed=2": {
+      "model": "betterwithmods:block/variants/turntable"
+    },
+    "speed=3": {
+      "model": "betterwithmods:block/variants/turntable"
+    }
+  }
+}

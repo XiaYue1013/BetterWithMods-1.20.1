@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W",
+    "R",
+    "W"
+  ],
+  "key": {
+    "R": {
+      "item": "betterwithmods:rope"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:wooden_axle",
+    "count": 2
+  }
+}

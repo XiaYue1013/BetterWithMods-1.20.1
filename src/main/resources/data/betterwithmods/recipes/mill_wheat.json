@@ -1,0 +1,15 @@
+{
+  "type": "betterwithmods:mill",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:flour",
+      "count": 1
+    }
+  ],
+  "grind_time": 200
+}

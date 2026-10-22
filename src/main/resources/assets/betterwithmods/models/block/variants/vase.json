@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/vase",
+  "textures": {
+    "side": "minecraft:block/terracotta",
+    "top": "betterwithmods:blocks/vase_inside",
+    "particle": "minecraft:block/terracotta"
+  }
+}

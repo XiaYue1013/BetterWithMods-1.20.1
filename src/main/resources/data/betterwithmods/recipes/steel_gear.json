@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NIN",
+    "I I",
+    "NIN"
+  ],
+  "key": {
+    "N": {
+      "item": "betterwithmods:steel_nugget"
+    },
+    "I": {
+      "item": "betterwithmods:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:steel_gear",
+    "count": 1
+  }
+}

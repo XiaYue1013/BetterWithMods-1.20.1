@@ -1,0 +1,8 @@
+{
+  "parent": "betterwithmods:block/slats_inv",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "side": "betterwithmods:blocks/wood_side_oak",
+    "particle": "betterwithmods:blocks/wood_side_oak"
+  }
+}

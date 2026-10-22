@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "betterwithmods:blocks/buddy_front_off",
+    "south": "betterwithmods:blocks/buddy_side_off",
+    "west": "betterwithmods:blocks/buddy_side_off",
+    "east": "betterwithmods:blocks/buddy_side_off",
+    "up": "betterwithmods:blocks/buddy_side_off",
+    "down": "betterwithmods:blocks/buddy_side_off",
+    "particle": "betterwithmods:blocks/buddy_side_off"
+  }
+}

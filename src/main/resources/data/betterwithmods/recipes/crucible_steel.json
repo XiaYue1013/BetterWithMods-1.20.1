@@ -1,0 +1,22 @@
+{
+  "type": "betterwithmods:crucible",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "betterwithmods:coal_dust"
+    },
+    {
+      "item": "betterwithmods:soul_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:steel_ingot",
+      "count": 1
+    }
+  ],
+  "heat": 2,
+  "cook_time": 200
+}

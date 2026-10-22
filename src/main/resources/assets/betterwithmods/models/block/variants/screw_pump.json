@@ -1,0 +1,12 @@
+{
+  "parent": "betterwithmods:block/screw_pump",
+  "textures": {
+    "top": "betterwithmods:blocks/pump_top",
+    "bottom": "betterwithmods:blocks/pump_bottom",
+    "north": "betterwithmods:blocks/pump_grate",
+    "south": "betterwithmods:blocks/pump_side",
+    "east": "betterwithmods:blocks/pump_side",
+    "west": "betterwithmods:blocks/pump_side",
+    "particle": "betterwithmods:blocks/pump_side"
+  }
+}

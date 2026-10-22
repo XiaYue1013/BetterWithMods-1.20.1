@@ -1,0 +1,16 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    {
+      "item": "betterwithmods:sawdust"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:potash",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

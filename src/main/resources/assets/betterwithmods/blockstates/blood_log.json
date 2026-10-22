@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "betterwithmods:block/blood_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "betterwithmods:block/blood_wood"
+    },
+    "axis=z": {
+      "model": "betterwithmods:block/blood_wood",
+      "x": 90
+    }
+  }
+}

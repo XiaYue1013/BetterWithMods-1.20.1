@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PGP",
+    "GLG",
+    "PGP"
+  ],
+  "key": {
+    "P": {
+      "item": "betterwithmods:steel_plate"
+    },
+    "G": {
+      "item": "betterwithmods:steel_gear"
+    },
+    "L": {
+      "item": "betterwithmods:redstone_latch"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:steel_gearbox",
+    "count": 1
+  }
+}

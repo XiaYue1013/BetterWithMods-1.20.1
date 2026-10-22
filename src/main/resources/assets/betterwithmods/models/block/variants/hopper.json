@@ -1,0 +1,9 @@
+{
+  "parent": "betterwithmods:block/hopper",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "up": "betterwithmods:blocks/hopper_top",
+    "side": "betterwithmods:blocks/hopper_side",
+    "particle": "betterwithmods:blocks/hopper_side"
+  }
+}

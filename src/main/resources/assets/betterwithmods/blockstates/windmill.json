@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "active=false,axis=y,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_off"
+    },
+    "active=false,axis=z,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_off",
+      "x": 90
+    },
+    "active=false,axis=x,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_off",
+      "x": 90,
+      "y": 90
+    },
+    "active=true,axis=y,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_on"
+    },
+    "active=true,axis=z,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_on",
+      "x": 90
+    },
+    "active=true,axis=x,steel=false": {
+      "model": "betterwithmods:block/variants/wooden_axle_on",
+      "x": 90,
+      "y": 90
+    },
+    "active=false,axis=y,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_off"
+    },
+    "active=false,axis=z,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_off",
+      "x": 90
+    },
+    "active=false,axis=x,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_off",
+      "x": 90,
+      "y": 90
+    },
+    "active=true,axis=y,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_on"
+    },
+    "active=true,axis=z,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_on",
+      "x": 90
+    },
+    "active=true,axis=x,steel=true": {
+      "model": "betterwithmods:block/variants/steel_axle_on",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

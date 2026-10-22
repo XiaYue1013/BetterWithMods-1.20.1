@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "B B",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "betterwithmods:wood_blade"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:vertical_windmill",
+    "count": 1
+  }
+}

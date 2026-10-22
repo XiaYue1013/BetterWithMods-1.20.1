@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "betterwithmods:block/mill"
+    },
+    "active=true": {
+      "model": "betterwithmods:block/mill"
+    }
+  }
+}

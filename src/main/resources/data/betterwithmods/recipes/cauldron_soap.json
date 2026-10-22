@@ -1,0 +1,19 @@
+{
+  "type": "betterwithmods:cauldron",
+  "ingredients": [
+    {
+      "item": "betterwithmods:potash"
+    },
+    {
+      "item": "betterwithmods:tallow"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:soap",
+      "count": 1
+    }
+  ],
+  "heat": 1,
+  "cook_time": 200
+}

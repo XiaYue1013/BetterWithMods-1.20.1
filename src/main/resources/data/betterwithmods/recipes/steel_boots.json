@@ -1,0 +1,20 @@
+{
+  "type": "betterwithmods:steel_anvil",
+  "width": 4,
+  "height": 4,
+  "pattern": [
+    "    ",
+    "S  S",
+    "S  S",
+    "    "
+  ],
+  "key": {
+    "S": {
+      "item": "betterwithmods:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:steel_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "betterwithmods:mill",
+  "ingredients": [
+    {
+      "item": "betterwithmods:hemp"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterwithmods:hemp_fibers",
+      "count": 3
+    }
+  ],
+  "grind_time": 200
+}

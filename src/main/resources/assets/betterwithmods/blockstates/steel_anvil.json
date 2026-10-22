@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "betterwithmods:block/steel_anvil"
+    },
+    "facing=south": {
+      "model": "betterwithmods:block/steel_anvil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "betterwithmods:block/steel_anvil",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "betterwithmods:block/steel_anvil",
+      "y": 90
+    }
+  }
+}

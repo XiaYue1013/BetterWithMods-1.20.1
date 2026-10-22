@@ -1,0 +1,9 @@
+{
+  "parent": "betterwithmods:block/bellows",
+  "textures": {
+    "front": "betterwithmods:blocks/bellows_front",
+    "top": "betterwithmods:blocks/bellows_top",
+    "side": "betterwithmods:blocks/bellows_side",
+    "particle": "betterwithmods:blocks/bellows_top"
+  }
+}

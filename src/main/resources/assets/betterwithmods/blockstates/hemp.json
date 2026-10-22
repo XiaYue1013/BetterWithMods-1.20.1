@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_0"
+    },
+    "age=0,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=1,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_1"
+    },
+    "age=1,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=2,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_2"
+    },
+    "age=2,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=3,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_3"
+    },
+    "age=3,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=4,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_4"
+    },
+    "age=4,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=5,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_5"
+    },
+    "age=5,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=6,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_6"
+    },
+    "age=6,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    },
+    "age=7,top=false": {
+      "model": "betterwithmods:block/variants/hemp_stage_7"
+    },
+    "age=7,top=true": {
+      "model": "betterwithmods:block/variants/hemp_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "betterwithmods:hemp_fibers"
+    }
+  },
+  "result": {
+    "item": "betterwithmods:hemp_cloth",
+    "count": 1
+  }
+}
